@@ -1,10 +1,10 @@
 ### Olá! Meu nome é Diego Santos 👋
 
 - 🔭 Analista de soluções customizadas na Capgemini.
-- 🌱 Atualmente estou cursando Analise e Desenvolvimento e Sistemas pela UNIP e também estudando desenvolvimento fullstack.
+- 🌱 Graduado em Analise e Desenvolvimento e Sistemas pela UNIP.
 - 👯 Atualmente trabalhando como desenvolvedor fullstack C# .NET e Angular.
 - 🤔 Possuo conhecimentos em API Rest / Restfull com Node.js.
-- My English level is advanced. Feel free to invite me for an interview in English!😊
+- My English level is advanced C1.
 - 💬 Estou a disposição para responder perguntas sobre minhas habilidades e conhecimentos.
 - 📫 Quer falar comigo? meu linkedin é: www.linkedin.com/in/diego-ds-santos
 <div align="center">
